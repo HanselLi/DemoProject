@@ -1,0 +1,6 @@
+[submodule "HanselPermisson"]
+	path = HanselPermisson
+	url = git@github.com:HanselLi/HanselPermisson.git
+[submodule "HorizontalScrollBar"]
+	path = HorizontalScrollBar
+	url = git@github.com:HanselLi/HorizontalScrollBar.git
