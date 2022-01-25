@@ -4,3 +4,4 @@
 [submodule "HorizontalScrollBar"]
 	path = HorizontalScrollBar
 	url = git@github.com:HanselLi/HorizontalScrollBar.git
+	branch = dev
